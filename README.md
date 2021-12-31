@@ -3,7 +3,9 @@ Day Planner is an application that utilizes JQuery to provide the user a dynamic
 
 
 # Links
+https://drmccollum5.github.io/Day-Planner/
 
 
 
-
+# Screenshot
+[Screenshot](./assets/Capture.PNG)
